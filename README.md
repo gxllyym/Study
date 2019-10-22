@@ -1,5 +1,5 @@
 ## 每周学习打卡：
-
+```
 package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
@@ -10,13 +10,14 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
-
 }
-
+```
+```
 Algorithm.
 Review.
 Tip.
 Share.
+```
 ## Algorithm
 题目：[两数相加](https://leetcode-cn.com/problems/add-two-numbers/)
 ```

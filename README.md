@@ -1,5 +1,5 @@
 每周学习打卡：
-Algorithm
+Algorithm.
 Review.
-Tip
-Share
+Tip.
+Share.

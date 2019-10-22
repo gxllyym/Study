@@ -1,2 +1,5 @@
-README.md
-this is my first file.
+每周学习打卡：
+Algorithm
+Review.
+Tip
+Share
